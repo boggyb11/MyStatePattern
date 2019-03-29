@@ -1,0 +1,11 @@
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\bin\Debug\netcoreapp2.1\MyStatePattern.deps.json
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\bin\Debug\netcoreapp2.1\MyStatePattern.runtimeconfig.json
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\bin\Debug\netcoreapp2.1\MyStatePattern.runtimeconfig.dev.json
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\bin\Debug\netcoreapp2.1\MyStatePattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\bin\Debug\netcoreapp2.1\MyStatePattern.pdb
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\obj\Debug\netcoreapp2.1\MyStatePattern.csprojAssemblyReference.cache
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\obj\Debug\netcoreapp2.1\MyStatePattern.csproj.CoreCompileInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\obj\Debug\netcoreapp2.1\MyStatePattern.AssemblyInfoInputs.cache
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\obj\Debug\netcoreapp2.1\MyStatePattern.AssemblyInfo.cs
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\obj\Debug\netcoreapp2.1\MyStatePattern.dll
+C:\Users\benjamin_fitzpatrick\source\repos\MyStatePattern\MyStatePattern\obj\Debug\netcoreapp2.1\MyStatePattern.pdb
